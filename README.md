@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Sissioy's github stats](https://github-readme-stats.vercel.app/api?username=labulac&show_icons=true&theme=onedark)](https://github.com/danxiaonuo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labulac)](https://github.com/labulac/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=labulac)](https://github.com/labulac/github-readme-stats)-->
